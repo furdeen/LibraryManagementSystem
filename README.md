@@ -15,6 +15,7 @@ Right now it is a general structure, and have alot of potential for future featu
 
 o Screenshots showing your postman requests and the output from 
 the API.
+<img src="https://static.iconarchive.com/static/images/ia/header/back.png">
 
 o Screenshots of your database to prove that data is being persisted.
 
