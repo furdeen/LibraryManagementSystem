@@ -9,7 +9,7 @@ import javax.validation.constraints.Size;
 @Data
 public class BookRequest {
 
-    //essas annotations servem para fazer o teste
+	//these annotations are for taking the test
     @NotEmpty
     private String title;
 

@@ -32,7 +32,7 @@ public class BookInitializer implements CommandLineRunner {
 
         }
 
-        log.info(".............Finished");
+        log.info(".............done with dummy data");
 
     }
 }
